@@ -11,6 +11,7 @@ import cucumber.api.junit.Cucumber;
 	public class TestRunnerClass {
 
     private void suma() {
+    	System.out.println();
 
 }
 
