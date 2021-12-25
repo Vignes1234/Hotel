@@ -14,6 +14,9 @@ import cucumber.api.junit.Cucumber;
 
 		}
 
+    private void suma() {
+    	System.out.println();
 
+}
 
 }
