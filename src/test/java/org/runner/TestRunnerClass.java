@@ -10,6 +10,8 @@ import cucumber.api.junit.Cucumber;
 	@CucumberOptions(features= {"src/test/resources"})
 	public class TestRunnerClass {
 
+    private void suma() {
 
+}
 
 }
